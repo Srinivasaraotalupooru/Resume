@@ -100,7 +100,3 @@ To play the role of a senior software developer with an integrated business solu
 
 - **Star of the Month** (October 2017) for client appreciations
 - Consistent recognition for defect-free and timely deliverables on complex projects
-
----
-
-This layout preserves the original structure and enhances the content for clarity and impact.
